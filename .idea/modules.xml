@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Angela/.idea/Angela.iml" filepath="$PROJECT_DIR$/../Angela/.idea/Angela.iml" />
+      <module fileurl="file://D:/Documents/Cursos/Bonieck/.idea/Bonieck.iml" filepath="D:/Documents/Cursos/Bonieck/.idea/Bonieck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Curso_Algoritmo.iml" filepath="$PROJECT_DIR$/.idea/Curso_Algoritmo.iml" />
+      <module fileurl="file://D:/Documents/Cursos/Dev_Samurai/.idea/Dev_Samurai.iml" filepath="D:/Documents/Cursos/Dev_Samurai/.idea/Dev_Samurai.iml" />
+    </modules>
+  </component>
+</project>
